@@ -1,0 +1,15 @@
+C:\Users\semio\Desktop\hWSem4\dopTaks\bin\Debug\net6.0\dopTaks.exe
+C:\Users\semio\Desktop\hWSem4\dopTaks\bin\Debug\net6.0\dopTaks.deps.json
+C:\Users\semio\Desktop\hWSem4\dopTaks\bin\Debug\net6.0\dopTaks.runtimeconfig.json
+C:\Users\semio\Desktop\hWSem4\dopTaks\bin\Debug\net6.0\dopTaks.dll
+C:\Users\semio\Desktop\hWSem4\dopTaks\bin\Debug\net6.0\dopTaks.pdb
+C:\Users\semio\Desktop\hWSem4\dopTaks\obj\Debug\net6.0\dopTaks.csproj.AssemblyReference.cache
+C:\Users\semio\Desktop\hWSem4\dopTaks\obj\Debug\net6.0\dopTaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semio\Desktop\hWSem4\dopTaks\obj\Debug\net6.0\dopTaks.AssemblyInfoInputs.cache
+C:\Users\semio\Desktop\hWSem4\dopTaks\obj\Debug\net6.0\dopTaks.AssemblyInfo.cs
+C:\Users\semio\Desktop\hWSem4\dopTaks\obj\Debug\net6.0\dopTaks.csproj.CoreCompileInputs.cache
+C:\Users\semio\Desktop\hWSem4\dopTaks\obj\Debug\net6.0\dopTaks.dll
+C:\Users\semio\Desktop\hWSem4\dopTaks\obj\Debug\net6.0\refint\dopTaks.dll
+C:\Users\semio\Desktop\hWSem4\dopTaks\obj\Debug\net6.0\dopTaks.pdb
+C:\Users\semio\Desktop\hWSem4\dopTaks\obj\Debug\net6.0\dopTaks.genruntimeconfig.cache
+C:\Users\semio\Desktop\hWSem4\dopTaks\obj\Debug\net6.0\ref\dopTaks.dll
